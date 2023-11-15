@@ -1,1 +1,0 @@
-# SurfacePhotometry_Student
